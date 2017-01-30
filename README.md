@@ -11,7 +11,7 @@
 ## Screenshot Aplikasi
 <p align="center">
   <img src="https://github.com/rehanarroihan/AdvancedWidget1/blob/master/aw1.jpeg" width="350"/>
-  <img src="https://github.com/rehanarroihan/AdvancedWidget1/blob/master/aw1.jpeg" width="350"/>
+  <img src="http://i64.tinypic.com/ifbre0.jpg" width="350"/>
 </p>
 
 
